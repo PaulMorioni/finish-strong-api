@@ -1,0 +1,33 @@
+aniso8601==8.0.0
+astroid==2.4.2
+autopep8==1.5.4
+certifi==2020.6.20
+cffi @ file:///C:/ci/cffi_1600699246375/work
+click==7.1.2
+colorama==0.4.3
+cryptography @ file:///C:/ci/cryptography_1601046905460/work
+Flask==1.1.2
+Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1598886879133/work
+flask-marshmallow @ file:///home/conda/feedstock_root/build_artifacts/flask-marshmallow_1601276004467/work
+Flask-RESTful==0.3.8
+Flask-SQLAlchemy @ file:///home/conda/feedstock_root/build_artifacts/flask-sqlalchemy_1594747318500/work
+isort==5.5.4
+itsdangerous==1.1.0
+Jinja2==2.11.2
+lazy-object-proxy==1.4.3
+MarkupSafe==1.1.1
+marshmallow @ file:///home/conda/feedstock_root/build_artifacts/marshmallow_1608465425564/work
+mccabe==0.6.1
+pycodestyle==2.6.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+PyJWT==1.7.1
+pylint==2.6.0
+PyMySQL @ file:///C:/ci/pymysql_1601579814119/work
+python-dateutil==2.8.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1604321279890/work
+six==1.15.0
+SQLAlchemy @ file:///D:/bld/sqlalchemy_1608367002681/work
+toml==0.10.1
+Werkzeug==1.0.1
+wincertstore==0.2
+wrapt==1.12.1
